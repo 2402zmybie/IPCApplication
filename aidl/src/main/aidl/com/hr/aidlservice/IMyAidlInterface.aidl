@@ -6,4 +6,5 @@ package com.hr.aidlservice;
 interface IMyAidlInterface {
 
     String getName();
+
 }
